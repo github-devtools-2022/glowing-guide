@@ -1,3 +1,3 @@
-arch_1
+arc_1
 
 # Hello
